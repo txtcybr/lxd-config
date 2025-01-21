@@ -1,4 +1,4 @@
-## LXD Terraform Provider Learning Notes 
+## How to use LXD Terraform Provider
 
 
 ### What I Learn while writing this lxd config to setup lab environments
